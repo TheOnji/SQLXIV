@@ -1,0 +1,4 @@
+##### List Requirements for pip to install #####
+requests
+lxml
+beautifulsoup4
